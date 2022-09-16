@@ -1,0 +1,23 @@
+
+body{  
+
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,97,114,1) 57%, rgba(0,212,255,1) 100%);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    
+}
+
+.header{
+    text-align: center;
+    width: 250px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**{
+    border: medium dashed rgb(128, 0, 0);
+}*/
